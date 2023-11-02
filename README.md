@@ -1,6 +1,6 @@
 ## F1 Tyre Compound Detection Project
 
-This project was completed in 48 hours as part of a challenge.
+This project was completed in 2021 in 48 hours as part of a challenge.
 
 Please do not rename files or move directories, or execution blockers may occur.
 

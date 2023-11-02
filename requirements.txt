@@ -1,0 +1,6 @@
+tensorflow==1.14.0
+opencv-python==4.2.0.34
+numpy==1.16.0
+matplotlib==3.2.1
+Pillow==8.0.1
+jupyter==1.0.0

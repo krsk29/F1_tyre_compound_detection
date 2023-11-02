@@ -98,6 +98,8 @@ Two main files are used to test the model visually: Object_detection_image.py an
 
 The COCO evaluation metrics are shown in the image in the footnotes at the end of the report. The metric in the red box is the Average Precision (AP) over multiple Intersection over Union (IoU) which is defined by COCO documentation as the primary metric. In simpler terms, it represents the mean average precision (mAP), which is the comparison between the ground-truth bounding box to the detected box. It has a value between 0 and 1 and the higher the value the more accurate the model is. In this case, the accuracy is ~80%. This means that on average the detected box covers between 50% and 95% of the ground truth box 80% of the times.
 
+<img src="images/sample_model_output/img6.png" alt="First Image Description" width="500"/>
+
 ---
 
 #### 5. Conclusion and Future Work
@@ -117,3 +119,11 @@ Future work can be done to improve the complexity of the model. Further logic ca
 - **Post-Processing**: Apply non-max suppression for more accurate bounding boxes.
 - **Real-Time Evaluation**: Test on edge devices to assess real-time performance.
 - **User Feedback**: Incorporate a feedback mechanism for ongoing model improvement.
+
+#### Sample Model Outputs
+
+<img src="images/sample_model_output/img1.png" alt="First Image Description" width="500"/>
+<img src="images/sample_model_output/img2.png" alt="Second Image Description" width="500"/>
+<img src="images/sample_model_output/img3.png" alt="Third Image Description" width="500"/>
+<img src="images/sample_model_output/img4.png" alt="Fourth Image Description" width="500"/>
+<img src="images/sample_model_output/img5.png" alt="Fourth Image Description" width="500"/>
